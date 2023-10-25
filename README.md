@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Formularios en HTML</title>
+	
 </head>
 <body>
 	<h1>Venta de productos</h1>
